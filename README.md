@@ -1,2 +1,2 @@
 # codelity_00
-codelity
+Find Max Number Of Segement(with 2) With Same Sum
